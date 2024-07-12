@@ -32,7 +32,7 @@
 			<div class="wrap-login100">
 				<form class="login100-form p-l-55 p-r-55 p-t-178" action="<?php echo base_url('welcome/proses_login') ?>" method="POST">
 					<span class="login100-form-title">
-						Welcome
+						Welcome Pendataan Pantai di Tanah Laut
 					</span>
 
 					<div class="wrap-input100 validate-input m-b-16" data-validate="Please enter username">
